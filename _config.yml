@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "You're awesome Mathieu !"
+title: "Tau, espace de coworking associatif à Toulouse"
 email: contact@tau.so
 description: >- # this means to ignore newlines until "baseurl:"
   Tau est un espace de coworking associatif en autogestion, actuellement composé
@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   cosmonautes…) ouvert à tous les profils.
   130m2 (répartis en plusieurs pièces) en plein cœur de Toulouse, place de la Daurade
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tau.so/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: taucw
 github_username:  taucw
 
