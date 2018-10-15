@@ -1,0 +1,103 @@
+// Navigation
+
+.navbar-default {
+    background-color: white;
+    border-color: rgba($theme-dark, .5);
+    @include sans-serif-font;
+    @include transition-all;
+
+    img {
+        &.logo {
+            max-height: 55px;
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        &.lang {
+            max-height: 25px;
+            display: inline-block;
+            margin-right: 5px;
+        }
+    }
+
+    .navbar-header .navbar-brand {
+        color: $theme-dark;
+        @include sans-serif-font;
+        font-weight: 700;
+        text-transform: uppercase;
+        &:hover,
+        &:focus {
+            color: darken($theme-dark, 10%);
+        }
+    }
+    .nav {
+        > li {
+            > a,
+            > a:focus {
+                text-transform: uppercase;
+                font-weight: 700;
+                font-size: 13px;
+                color: $theme-dark;
+                &:hover {
+                    color: $theme-dark;
+                }
+            }
+            &.active {
+                > a,
+                > a:focus {
+                    color: $theme-dark !important;
+                    background-color: transparent;
+                    &:hover {
+                        background-color: transparent;
+                    }
+                }
+            }
+        }
+    }
+    @media (min-width: 768px) {
+        background-color: rgba(white, 0.2);
+        border-color: rgba(white, .3);
+        min-height: 80px;
+        .navbar-header .navbar-brand {
+            color: $theme-dark;
+            font-size: 2rem;
+            &:hover,
+            &:focus {
+                color: $theme-dark;
+            }
+        }
+        .nav > li > a,
+        .nav > li > a:focus {
+            padding-top: 30px;
+            padding-bottom: 30px;
+            color: $theme-dark;
+            font-size: 1.5rem;
+            &:hover {
+                color: $theme-dark;
+            }
+        }
+        &.affix {
+            min-height: 50px;
+            background-color: white;
+            border-color: rgba($theme-dark, .5);
+            .navbar-header .navbar-brand {
+                color: $theme-dark;
+                font-size: 14px;
+                padding: 0;
+                &:hover,
+                &:focus {
+                    color: darken($theme-dark, 10%);
+                }
+            }
+            .nav > li > a,
+            .nav > li > a:focus {
+                color: $theme-dark;
+                padding-top: 15px;
+                padding-bottom: 15px;
+                &:hover {
+                    color: $theme-dark;
+                }
+            }
+        }
+    }
+}

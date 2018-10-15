@@ -74,6 +74,24 @@ aside {
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
+
+    img {
+        &.logo {
+            max-height: 50px;
+            display: inline-block;
+        }
+
+        &.lang {
+            max-height: 25px;
+            display: inline-block;
+            margin-right: 5px;
+        }
+    }
+
+    .navbar {
+        min-height: 80px;
+    }
+
     .navbar-header .navbar-brand {
         color: $theme-dark;
         @include sans-serif-font;
