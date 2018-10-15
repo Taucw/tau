@@ -1,0 +1,70 @@
+site:
+  name: Tau Coworking
+  about: >-
+    Tau is a self managed NGO coworking space,
+    currently attended by a dozen freelancers
+    (developers, translators, designers, videographers, cosmonaut…).
+    Open to all profiles, including yours!
+    130 m² split in multiple rooms right in the center of Toulouse, at Place de la Daurade.
+nav:
+  toggle: Toggle navigation
+  about: About & Prices
+  services: Services
+  pictures: Pictures
+  contact: Contact
+header:
+  punchline: Tired of working from home in your pyjamas?
+  punchline-2: Tau is what you need!
+  free-day: Free discovery day
+call-to-action:
+  title: We have the solution for you
+  prices:
+    title: Prices
+    free-day:
+      title: Enjoy your free discovery day to meet the place and the people
+      action: Set up your free discovery day
+    permanent:
+      title: "Permanent : 150 euros / month"
+      description: Get your own desk, filled up with your stuff, like your cat's picture
+    nomad:
+      title: "Nomad : 120 euros / month"
+      description: "Kill the routine, set up on a new desk every day"
+    tickets:
+      title: "12 half-day tickets to spend whenever you want : 60 euros"
+    flexible: Not a match? Let's discuss what pricing would suit you the best. Your first day is free anyway!
+    subscription: "Yearly organisation subscription : 1 euro"
+  contact-us: Contact us
+services:
+  title: Available Services
+  list:
+    unlimited-access:
+      title: 24/7 unlimited access
+      description: You get the keys (permanent residents only)
+    break-room:
+      title: Break room
+      description: Sofas, cutlery, fridge, microwave, darts
+    internet:
+      title: Fibre internet connexion
+      description: 300Mo Wi-Fi download and 1Go Ethernet
+    printer:
+      title: Laser color printer, scanner
+      description: Very simple to set up
+    coffee:
+      title: Unlimited tea, coffee, toilet paper etc.
+      description: Believe it or not!
+    friendlyness:
+      title: Friendlyness
+      description: Mealtime is a great opportunity to exchange with coworkers
+    water:
+      title: Unlimited drinking water
+      description: We also have hot water!
+    daurade:
+      title: Unlimited access to the Place de la Daurade
+      description: When the weather's fine
+portfolio:
+  title: En images
+contact:
+  title: Contact us immediately!
+  description: >-
+    To get more info, the best is for you to come and check the space out.
+    Drop us a quick email to schedule that!

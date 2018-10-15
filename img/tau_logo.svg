@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="59.531254mm"
+   height="59.53125mm"
+   viewBox="0 0 59.531254 59.53125"
+   version="1.1"
+   id="svg4500"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="tau_logo.svg">
+  <defs
+     id="defs4494" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="148.21429"
+     inkscape:cy="409.64288"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4497">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(65.295388,-203.73438)">
+    <path
+       style="opacity:1;fill:#e6301a;fill-opacity:1;stroke:none;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -65.295388,203.73438 v 59.53125 h 59.5312526 v -59.53125 z m 24.315827,8.94881 25.161256,0.047 v 6.35 l -16.404169,0.26459 c -0.942242,0.92773 -1.350063,2.63519 -1.587497,4.7625 v 20.6375 c 0.2101,4.21954 6.164757,1.87952 9.260416,1.32291 v 2.91042 l -10.847916,5.02708 c -0.734918,0.21476 -1.37513,0.34533 -1.919264,0.27957 -2.313954,-0.27965 -2.843236,-1.86707 -2.843236,-4.5129 v -21.69583 c 0.605912,-3.07563 2.009571,-6.50649 4.497916,-8.73125 h -7.672916 c -4.134718,0.38749 -6.926442,3.04518 -10.054166,5.02708 l -1.852085,-2.38123 c 5.027085,-4.49792 9.789732,-9.2602 14.261661,-9.30744 z"
+       id="rect4496"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

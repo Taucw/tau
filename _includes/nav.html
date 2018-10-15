@@ -1,30 +1,56 @@
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
+    <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
+                <span class="sr-only">{% t nav.toggle %}</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">TAU Coworking</a>
+            <a class="navbar-brand page-scroll" href="#page-top">
+                <img src="img/tau_logo.svg" class="logo" />
+                {% t site.name %}
+            </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="#about">À propos</a>
+                    <a class="page-scroll" href="#about">{% t nav.about %}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#services">Services</a>
+                    <a class="page-scroll" href="#services">{% t nav.services %}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#portfolio">Tarifs</a>
+                    <a class="page-scroll" href="#pictures">{% t nav.pictures %}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
+                    <a class="page-scroll" href="#contact">{% t nav.contact %}</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <img src="img/languages/{{site.lang}}.png" class="lang" />
+                      <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        {% for language in site.languages %}
+                            {% if site.lang != language %}
+                                {% if language == site.defaultLang %}
+                                    {% assign path = '/' %}
+                                {% else %}
+                                    {% assign path = "/" | append: language %}
+                                {% endif %}
+                                <li>
+                                    <a class="dropdown-item" href="{{path}}">
+                                        <img src="img/languages/{{language}}.png" class="lang" />
+                                        {{site.languageNames[language]}}
+                                    </a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
                 </li>
             </ul>
         </div>
