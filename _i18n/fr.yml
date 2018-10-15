@@ -1,0 +1,64 @@
+site:
+  name: Tau Coworking
+  description: >-
+    Espace de coworking associatif en autogestion,
+    actuellement composé d’une douzaine d’indépendants
+    (développeurs, traductrices, graphiste, vidéastes, cosmonautes…)
+    ouvert à tous les profils, même le tien.
+    130m2 (répartis en plusieurs pièces) en plein cœur de Toulouse, place de la Daurade.
+nav:
+  toggle: Afficher le menu
+  about: A propos
+  services: Services
+  prices: Tarifs
+  contact: Contact
+header:
+  punchline: Marre de bosser en pyjama tout seul dans ton salon ?
+  punchline-2: Tau est fait pour toi !
+  free-day: 1ère journée gratuite
+call-to-action:
+  title: On a ce qu'il te faut !
+  prices:
+    permanent:
+      title: "Fixe : 150 euros / mois"
+      description: Tu as ton bureau attitré avec tes petites affaires et la photo de ton chat posé dessus
+    nomad:
+      title: "Nomade : 120 euros / mois"
+      description: Tu te poses où tu veux chaque jour, à bas la routine !
+    tickets:
+      title: "Formule au carnet de 12 demi-journée : 60 euros"
+    flexible: Cette liste est non exhaustive, tout est discutable et la première journée d’essai est gratuite.
+    subscription: "Adhésion annuelle à l'association : 1 euro"
+  contact-us: Contacte-nous
+services:
+  title: Services proposés
+  list:
+    unlimited-access:
+      title: Accès illimité à l’espace 24h/7j
+      description: En gros t’as les clefs (sauf formule au carnet)
+    break-room:
+      title: Salle de repos / repas
+      description: Canapés, vaisselle, frigo, micro-onde, fléchettes
+    internet:
+      title: Accès internet fibre
+      description: 300Mbits en téléchargement Wifi et 1Gbits en Ethernet
+    printer:
+      title: Imprimante laser couleur, scanner
+      description: Facile à installer !
+    coffee:
+      title: Thé, café, PQ illimité…
+      description: Quand on aime on ne compte pas
+    friendlyness:
+      title: Convivialité
+      description: Repas en commun si souhaité, échanges pertinents et nourrissants
+    water:
+      title: Eau potable municipale à volonté
+      description: Chaude si vous le souhaitez
+    daurade:
+      title: Accès illimité à la place de la Daurade
+      description: Les jours de beau temps
+contact:
+  title: Contacte-nous vite !
+  description: >-
+    Pour en savoir plus, le plus simple est de passer nous voir,
+    de venir essayer, avec un petit mail avant pour prévenir !

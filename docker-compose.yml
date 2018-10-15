@@ -1,0 +1,8 @@
+app:
+  image: jekyll/jekyll
+  command: jekyll serve
+  volumes:
+    - .:/srv/jekyll
+  working_dir: /srv/jekyll
+  ports:
+    - 4000:4000
