@@ -2,13 +2,17 @@
 
 .navbar-default {
     background-color: white;
-    border-color: rgba($theme-dark, .5);
+    border: none;
+    box-shadow: 0 0 20px rgba(white, 0.2);
     @include sans-serif-font;
     @include transition-all;
 
     img {
         &.logo {
             max-height: 55px;
+            @media (max-width: 768px) {
+                max-height: 30px;
+            }
             display: inline-block;
             margin-right: 10px;
         }

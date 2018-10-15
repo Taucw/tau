@@ -1,16 +1,16 @@
 site:
   name: Tau Coworking
-  description: >-
-    Self managed NGO coworking space,
+  about: >-
+    Tau is a self managed NGO coworking space,
     currently attended by a dozen freelancers
     (developers, translators, designers, videographers, cosmonaut…).
     Open to all profiles, including yours!
     130 m² split in multiple rooms right in the center of Toulouse, at Place de la Daurade.
 nav:
   toggle: Toggle navigation
-  about: About
+  about: About & Prices
   services: Services
-  prices: Prices
+  pictures: Pictures
   contact: Contact
 header:
   punchline: Tired of working from home in your pyjamas?
@@ -19,6 +19,10 @@ header:
 call-to-action:
   title: We have the solution for you
   prices:
+    title: Prices
+    free-day:
+      title: Enjoy your free discovery day to meet the place and the people
+      action: Set up your free discovery day
     permanent:
       title: "Permanent : 150 euros / month"
       description: Get your own desk, filled up with your stuff, like your cat's picture
@@ -57,8 +61,10 @@ services:
     daurade:
       title: Unlimited access to the Place de la Daurade
       description: When the weather's fine
-  contact:
-    title: Contact us immediately!
-    description: >-
-      To get more info, the best is for you to come and check the space out.
-      Drop us a quick email to schedule that!
+portfolio:
+  title: En images
+contact:
+  title: Contact us immediately!
+  description: >-
+    To get more info, the best is for you to come and check the space out.
+    Drop us a quick email to schedule that!

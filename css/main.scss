@@ -41,12 +41,8 @@ $theme-dark: #222;
 @import
         "mixins",
         "base",
-        "nav"
+        "nav",
+        "header",
+        "call-to-action",
+        "contact"
 ;
-
-
-@media (min-width: 979px) {
-  ul.nav li.dropdown:hover > ul.dropdown-menu {
-    display: block;
-  }
-}
