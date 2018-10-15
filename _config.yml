@@ -25,6 +25,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
+  - jekyll-redirect-from
 
 languages: ['fr', 'en']
 exclude_from_localizations: ['assets', 'CNAME']
