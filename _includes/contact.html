@@ -6,24 +6,42 @@
                 <hr class="primary">
                 <p>{% t contact.description %}</p>
             </div>
-        <div class="col-lg-2 col-lg-offset-2 text-center">
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-                <i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>{{ site.twitter_username }}</p>
-            </a>
+            <div class="col-lg-2 col-lg-offset-5 text-center">
+                <a href="mailto:{{ site.email }}">
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                    <p>{{ site.email }}</p>
+                </a>
+            </div>
         </div>
-        <div class="col-lg-2 col-lg-offset-1 text-center">
-            <a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".15s"></i>
-                <p>{{ site.email }}</p>
-            </a>
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <p>{% t contact.social_networks %}</p>
+            </div>
+            <div class="col-sm-4 text-center">
+                <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+                    <i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".2s"></i>
+                    <p>{{ site.twitter_username }}</p>
+                </a>
+            </div>
+            <div class="col-sm-4 text-center">
+                <a href="https://facebook.com/{{ site.facebook }}" target="_blank">
+                    <i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".3s"></i>
+                    <p>{{ site.facebook }}</p>
+                </a>
+            </div>
+            <div class="col-sm-4 text-center">
+                <a href="https://github.com/{{ site.github_username }}" target="_blank">
+                    <i class="fa fa-github fa-3x wow bounceIn" data-wow-delay=".4s"></i>
+                    <p>{{ site.github_username }}</p>
+                </a>
+            </div>
         </div>
-        <div class="col-lg-2 col-lg-offset-1 text-center">
-            <a href="https://github.com/{{ site.github_username }}">
-            <i class="fa fa-github fa-3x wow bounceIn" data-wow-delay=".2s"></i>
-                <p>{{ site.github_username }}</p>
-            </a>
+    </div>
+    <div id="map">
+        <div class="mapouter">
+            <div class="gmap_canvas">
+                <iframe width="100%" height="600" id="gmap_canvas" src="https://maps.google.com/maps?q=tau%20coworking%2018%20place%20de%20la%20daurade%20toulouse&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+            </div>
         </div>
-
     </div>
 </section>

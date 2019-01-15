@@ -5,10 +5,12 @@ site:
     actuellement composé d’une douzaine d’indépendants
     (développeurs, traductrices, graphiste, vidéastes, cosmonautes…)
     ouvert à tous les profils, même le tien.
-    130m2 (répartis en plusieurs pièces) en plein cœur de Toulouse, place de la Daurade.
+
+    130m² (répartis en plusieurs pièces) en plein cœur de Toulouse, place de la Daurade.
 nav:
   toggle: Afficher le menu
-  about: Infos & Tarifs
+  intro: Présentation
+  prices: Tarifs
   services: Services
   pictures: Images
   contact: Contact
@@ -16,30 +18,31 @@ header:
   punchline: Marre de bosser en pyjama tout seul dans ton salon ?
   punchline-2: Tau est fait pour toi !
   free-day: 1ère journée gratuite
-call-to-action:
+intro:
   title: On a ce qu'il te faut !
-  prices:
-    title: Tarifs
-    free-day:
-      title: Profite d'une journée de découverte gratuite pour découvrir les lieux et rencontrer les coworkers
-      action: Demander ma journée gratuite
-    permanent:
-      title: "Fixe : 150 euros / mois"
-      description: Tu as ton bureau attitré avec tes petites affaires et la photo de ton chat posé dessus
-    nomad:
-      title: "Nomade : 120 euros / mois"
-      description: Tu te poses où tu veux chaque jour, à bas la routine !
-    tickets:
-      title: "Formule au carnet de 12 demi-journée : 60 euros"
-    flexible: Cette liste est non exhaustive, tout est discutable et la première journée d’essai est gratuite.
-    subscription: "Adhésion annuelle à l'association : 1 euro"
+prices:
+  title: Tarifs
+  free-day:
+    title: Profite d'une journée de découverte gratuite pour découvrir les lieux et rencontrer les coworkers
+    action: Demander ma journée gratuite
+  permanent:
+    title: "Fixe : 150€ / mois"
+    description: Tu as ton bureau attitré avec tes petites affaires et la photo de ton chat posé dessus
+  nomad:
+    title: "Nomade : 120€ / mois"
+    description: Tu te poses où tu veux chaque jour, à bas la routine 
+  tickets:
+    title: "Formule au carnet de 12 demi-journée : 60€"
+    description: A utiliser quand tu veux
+  flexible: Cette liste est non exhaustive, tout est discutable et la première journée d’essai est gratuite.
+  subscription: "Adhésion annuelle à l'association : 1€"
   contact-us: Contacte-nous
 services:
   title: Services proposés
   list:
     unlimited-access:
       title: Accès illimité à l’espace 24h/7j
-      description: En gros t’as les clefs (sauf formule au carnet)
+      description: En gros tu as les clefs
     break-room:
       title: Salle de repos / repas
       description: Canapés, vaisselle, frigo, micro-onde, fléchettes
@@ -51,7 +54,7 @@ services:
       description: Facile à installer !
     coffee:
       title: Thé, café, PQ illimité…
-      description: Quand on aime on ne compte pas
+      description: Chacun ses addictions
     friendlyness:
       title: Convivialité
       description: Repas en commun si souhaité, échanges pertinents et nourrissants
@@ -61,10 +64,19 @@ services:
     daurade:
       title: Accès illimité à la place de la Daurade
       description: Les jours de beau temps
-portfolio:
+pictures:
   title: En images
+  captions:
+    meeting: En réunion
+    inside: Salle principale
+    collaboration: Bonne entente et collaboration
+    daurade: La place de la Daurade
 contact:
   title: Contacte-nous vite !
   description: >-
     Pour en savoir plus, le plus simple est de passer nous voir,
-    de venir essayer, avec un petit mail avant pour prévenir !
+    de venir essayer une journée. Envoie simplement un petit mail avant pour nous prévenir !
+  social_networks: 'Nous sommes aussi sur les réseaux sociaux :'
+not-found:
+  title: La page demandée n'a pas été trouvée
+  link: Revenir sur la page d'accueil

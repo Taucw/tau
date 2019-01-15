@@ -10,10 +10,12 @@ cosmonautes…) ouvert à tous les profils.
 
 ### Sans Docker
 
-Installer (`Jekyll`)[http://jekyllrb.com] puis `jekyll serve` pour développer localement.
+Installer (Jekyll)[http://jekyllrb.com] puis `jekyll serve` pour développer localement.
 
 ### Avec `docker` & `docker-compose`
 
 `docker-compose up` pour démarrer le serveur de développement.
 
 Ou bien `docker-compose run --rm app bash` pour lancer un terminal puis `jekyll serve`
+
+La version locale du site est disponible sur [https://localhost:4000](https://localhost:4000)

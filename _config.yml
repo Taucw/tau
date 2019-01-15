@@ -17,10 +17,11 @@ title: Tau Coworking
 description: Meilleur espace de coworking à Toulouse
 email: contact@tau.so
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# url: "https://tau.so" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tau.so" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: taucw
 github_username:  taucw
+facebook: tau.coworkingtoulouse
 
 # Build settings
 markdown: kramdown
@@ -28,6 +29,9 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-feed
   - jekyll-redirect-from
 
 languages: ['fr', 'en']
