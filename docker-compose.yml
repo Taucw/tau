@@ -5,4 +5,4 @@ app:
     - .:/srv/jekyll
   working_dir: /srv/jekyll
   ports:
-    - 4000:4000
+    - 5000:4000

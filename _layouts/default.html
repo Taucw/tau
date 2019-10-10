@@ -3,10 +3,11 @@
 
 {% include head.html %}
 
-<body id="page-top">
+<body class="{{page.body_class}}" id="page-top">
   {% include nav.html %}
 
   {{ content }}
 
+  {% include scripts.html %}
 </body>
 </html>

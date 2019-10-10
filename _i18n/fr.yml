@@ -30,7 +30,7 @@ prices:
     description: Tu as ton bureau attitré avec tes petites affaires et la photo de ton chat posé dessus
   nomad:
     title: "Nomade : 120€ / mois"
-    description: Tu te poses où tu veux chaque jour, à bas la routine 
+    description: Tu te poses où tu veux chaque jour, à bas la routine
   tickets:
     title: "Formule au carnet de 12 demi-journée : 60€"
     description: A utiliser quand tu veux
@@ -64,6 +64,8 @@ services:
     daurade:
       title: Accès illimité à la place de la Daurade
       description: Les jours de beau temps
+  know_more: Envie d'en savoir plus sur notre fonctionnement ?
+  check_manifesto: Consulter notre règlement intérieur
 pictures:
   title: En images
   captions:
