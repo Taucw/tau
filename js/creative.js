@@ -11,7 +11,7 @@
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
         var $target = $($anchor.attr('href').match(/#.*/)[0]);
-        if (length($target)) {
+        if ($target.length) {
             $('html, body').stop().animate({
                 scrollTop: ($target.offset().top - 50)
             }, 1250, 'easeInOutExpo');
