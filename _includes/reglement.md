@@ -1,4 +1,4 @@
-Manifesτau
+Manifes<span>τ</span>au
 ==========
 
 ## 1. De l'admission
@@ -45,7 +45,7 @@ Tu peux y pénétrer, pas de réservation.
 S'il est indisponible, demande simplement,  
 On s'organisera pour te laisser dedans.
 
-### La ou le dernier à partir
+### La fin de journée
 
 Ferme bien les fenêtres, éteins bien les lumières  
 Ferme les deux serrures, chacune à double tour  
@@ -74,3 +74,5 @@ En mangeant des pizzas, ou en n'en mangeant pas.
 
 
 **[Rejoins-nous sur Schlack !](https://tau-coworking.slack.com)**
+
+
