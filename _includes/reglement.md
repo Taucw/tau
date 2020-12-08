@@ -1,4 +1,4 @@
-Manifes<span>τ</span>au
+Manifes<span>t</span>au
 ==========
 
 ## 1. De l'admission

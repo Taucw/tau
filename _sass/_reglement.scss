@@ -15,7 +15,15 @@
       font-size: 1.75em;
       text-transform: none;
       line-height: inherit;
-      color: $theme-primary;
+      background-image: url(/img/tau_logo.svg);
+      display: inline-block;
+      width: 0.7em;
+      height: 0.6em;
+      background-size: contain;
+      color: transparent;
+      background-repeat: no-repeat;
+      background-position: bottom;
+      vertical-align: bottom;
     }
   }
 
