@@ -1,47 +1,76 @@
-Règlement inτaurieur
-====================
+Manifesτau
+==========
 
-## 1. Admission
+## 1. De l'admission
+
+Tout le monde peut souscrire, cela à tout moment, 
+À un abonnement qui sera permanent.
+Il sera validé après un mois d'essai,
+Avant de te confier une paire de clés.
+
+Il est recommandé, mais pas obligatoire,
+De fêter l'occasion par un p'tit coup à boire...
+
+Pour disposer à Tau d'un bureau attitré
+Où ranger tes affaires, ton écran préféré,
+Il te faudra alors être "Permanent Fixe"  
+Et non pas au carnet, ou "Nomade" phénix.
+Dans le cas d'une absence, sache que ce bureau
+Pourra servir à d'autres, d'autres membres de Tau.
+
+## 2. De la résiliation
+
+Tout membre permanent est libre d'interrompre
+L'abonnement souscrit. Un mois de préavis
+Te sera demandé, pour ne pas soudain rompre.
+Tout mois est dû, même en congé, sauf si la vie
+Te sépare de Tau, définitivement.
+Pour boire un autre coup, ce serait le moment. 
+
+## 3. Du lieu
+
+### La machine à café
+
+Quand de la cafetière, montent les picots bleus,
+C'est qu'il faut vider l'eau, ne pas baisser les yeux.
+Vider le pot de temps en temps, et quand vient l'heure
+De vidanger, et bien, vidanger de bon cœur.
+(C'est expliqué dans la notice en haut à droite,
+En petits caractères, sur une feuille étroite). 
+
+### Le box Visio
+
+Ce tout petit espace est à disposition.
+Tu peux y pénétrer, pas de réservation.
+S'il est indisponible, demande simplement,
+On s'organisera pour te laisser dedans.
+
+### La ou le dernier à partir
+
+Ferme bien les fenêtres, éteins bien les lumières
+Ferme les deux serrures, chacune à double tour
+C'est bon, tu peux partir, sans regarder derrière
+Tu reviendras demain, ou bien un autre jour.
+
+### Le ménage
+
+Par défaut, le jeudi, les taunautes s'adonnent
+Avec joie et entrain aux tâches ménagères.
+On vide les corbeilles, les déchets nucléaires,
+On extrait les poubelles, le recyclable on donne
+À la benne à côté du Café des artistes.
+On lave les toilettes comme des anarchistes,
+Un coup d'éponge on passe sur notre table basse
+L'aspirateur nettoie tous les coins de l'espace
+La serpillère enfin majestueuse vibre
+On range encore un peu, on sera bientôt libres.
+
+## 4. Du fonctionnement
+
+Tous les ans est prévue l'assemblée générale
+Vers le mois de décembre ou de janvier, par là.
+On y traite de tout, du budget du moral,
+En mangeant des pizzas, ou en n'en mangeant pas.
 
 
-Il est possible pour tous de souscrire à un abonnement permanent à tout moment. Toutefois, les taunautes se laissent un délai d'un mois à l'essai pour valider cette inscription (s'assurer d'une bonne entente), et notamment confier les clés du local au nouveau membre. Il est recommandé mais pas obligatoire de boire un coup pour fêter cette intronisation.
-
-Bureau fixe
-Le forfait Permanent Fixe permet d'avoir un bureau à disposition (et d'y déposer ds affaires personnelles, écran, etc.). En cas d'absence, le bureau pourra être utilisé par les membres nomade ou au carnet.
-
-## 2. Résiliation
-
-Un taunaute permanent est libre d'interrompre son abonnement à tout moment. Toutefois, un préavis d'un mois est demandé pour que les autres membres puissent anticiper cette place libérée. Sauf départ définitif, l'abonnement ne peut pas être interrompu pendant ses congés.
-
-## 3. Lieu
-
-### Machine à café
-
-Penser à vider l'eau de la cafetière dès que les picots bleus montent, et vider le pot de temps en temps (pour éviter les moucherons).
-
-Lorsqu'elle le réclame, faire la vidange. les instructions sont épinglées à droite de la machine.
-
-### Box Visio
-
-Pas de système de réservation : la salle est à disposition de tous. S'il y a un enjeu de disponibilité, il suffit d'informer les taunautes présents et la place vous sera laissée libre.
-
-### Dernier·e à partir
-
-Fermer toutes les fenêtres et éteindre les lumières. Et bien fermer les deux serrures, à double tours.
-
-### Ménage
-
-Par défaut, les taunautes effectuent eux-même le ménage du lieu chaque jeudi midi dans la joie et la bonne humeur. Il faut notamment :
-- Vider des corbeilles dans les bureaux, de la poubelle sous la machine à café et du recyclage dans la benne située à côté du café des artistes
-- Laver les toilettes
-- Petit coup d'éponge sur la table basse de la salle de repos
-- Passer l'aspirateur dans tout l'espace
-- Passer la serpillière ensuite
-- Faire un peu de rangement et autres inspirations libres
-
-## 4. Fonctionnement
-
-Une assemblée générale est prévue tous les ans, courant décembre/janvier.
-
-**[Rejoins-nous sur Slack !](https://tau-coworking.slack.com)**
-
+**[Rejoins-nous sur Schlack !](https://tau-coworking.slack.com)**
